@@ -6,7 +6,7 @@ description: This syllabus section provides the course description and informati
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Syllabus123
+title: Syllabus123wer
 uid: 88dcce2d-e82f-359e-34fd-ec2ed6a224d9
 ---
 Course Meeting Times
